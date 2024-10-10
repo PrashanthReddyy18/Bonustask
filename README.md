@@ -40,7 +40,7 @@ ACCESS_SECRET=your_access_secret
 ```
 ### Step 4: Add the code in main.go for Post and delete a tweet actions in twitter
 
-* After adding the code in main.go and giving the keys in .env file save them
+* After adding the code in main.go for POST and DELETE and giving the keys in .env file save them
 
 ## Execute
 * Run the code by using the command Go run main.go and the tweet is posted and the result is as shown below
