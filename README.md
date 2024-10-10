@@ -34,7 +34,7 @@ touch .env
 ```CONSUMER_KEY=your_consumer_key
 CONSUMER_SECRET=your_consumer_secret
 ACCESS_TOKEN=your_access_token
-ACCESS_SECRET=your_access_secret```
+ACCESS_SECRET=your_access_secret
 
 ### Step 4: Add the code in main.go for Post and delete a tweet actions in twitter
 
@@ -51,5 +51,5 @@ Run the code by using the command Go run main.go and the tweet is posted and the
 *PS C:\Users\marup\Documents\Code\go\src\github.com\PrashanthReddyy18\Bonustask> go run main.go
 *Posted tweet with ID: 1844439102071927278
 *Do you want to delete this tweet? (yes/no): yes
-*Deleted tweet with ID: 1844439102071927278```
+*Deleted tweet with ID: 1844439102071927278
 
