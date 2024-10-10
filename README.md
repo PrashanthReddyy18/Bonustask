@@ -27,7 +27,6 @@ This project demonstrates how to interact with the Twitter API using Go. The goa
 
 ### Step 3: Clone the Repository
 
-```bash
 git clone https://github.com/PrashanthReddyy18/Bonustask.git
 cd Bonustask
 touch .env  
